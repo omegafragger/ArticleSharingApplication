@@ -1,0 +1,2 @@
+INSERT INTO clients
+VALUES (%d, INET_ATON('%s'), %d)

@@ -1,0 +1,3 @@
+SELECT INET_NTOA(ipaddr), port
+FROM clients
+WHERE client_id = %d

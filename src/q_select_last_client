@@ -1,0 +1,2 @@
+SELECT MAX(client_id)
+FROM clients

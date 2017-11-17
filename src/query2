@@ -1,0 +1,2 @@
+DELETE FROM articles
+WHERE client_id = %d
